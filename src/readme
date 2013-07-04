@@ -1,0 +1,4 @@
+All latex and markdown files must be put under this directory.
+
+If you put `media` or `.sty` files under this directory,
+they will only be visible in the directory where you put it, (not its subdirectories).
