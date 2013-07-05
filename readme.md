@@ -2,6 +2,10 @@ Template to start a new latex project.
 
 Relies on [this submodule](https://github.com/cirosantilli/latex-submodule) to factor code out.
 
+The submodule is already installed on this repository, but you may need to meet its dependencies.
+
+See its documentation for a feature list, dependencies list and usage.
+
 You can get this template with:
 
     PROJECT_NAME=name
@@ -14,6 +18,9 @@ You can get this template with:
     git submodule add https://github.com/cirosantilli/latex-submodule shared
     git add `ls -A`
     git commit -am 'init'
+
+Note that since this is a template, this will remove all of the template's git history to reduce its size,
+since you will not push this to the origin repository, but only to your new project repository.
 
 # Rationale
 
