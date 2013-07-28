@@ -35,7 +35,7 @@ The intended directory structure for this project is:
 
 - `media-gen`: media files that are generated programatically via for example matplotlib or gplot.
 
-- `_out/`: location of make ouptut files. Created by make and removed by `make clean`.
+- `_build/`: location of make ouptut files. Created by make and removed by `make clean`.
 
 - `_dist/`: location of distribution files such as a `.zip` containing all ouptut pdfs.
 
