@@ -1,12 +1,12 @@
-Template to start a new LaTeX project.
+LaTeX project template.
 
-Relies on [this submodule](https://github.com/cirosantilli/latex-submodule) to factor code out.
+Relies on <https://github.com/cirosantilli/latex-submodule> to factor code out.
 
 The submodule is already installed on this repository, but you may need to meet its dependencies on utilities such as `pdflatex`.
 
-See its documentation for a feature list, dependencies list and usage.
+See the documentation of the submodule a list of features, dependencies and usage.
 
-You can get this template with:
+Use this template with:
 
     PROJECT_NAME=name
 
